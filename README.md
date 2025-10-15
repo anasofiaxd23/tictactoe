@@ -6,7 +6,7 @@
 ---
 
 ##  Descripción del proyecto
-este proyecto tiene una carpeta con el archivo zip y una carpeta que tiene el codigo del juego tictactoe en c++, el programa fue desarrollado con estructuras basicas del lenguaje.
+este proyecto abarca una carpeta que tiene el codigo del juego tictactoe en c++, el programa fue desarrollado con estructuras basicas del lenguaje.
 
 
 ---
